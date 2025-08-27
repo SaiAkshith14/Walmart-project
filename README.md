@@ -27,6 +27,22 @@ The project demonstrates:
 
 ---
 
-## 📌 3. Install Required Libraries
-```bash
-pip install pandas numpy sqlalchemy pymysql but i want like this
+### 3. Install Required Libraries
+- Install libraries:  
+  ```bash
+  pip install pandas numpy sqlalchemy pymysql
+
+
+
+### 4. Load & Explore Data
+- **Steps:**
+  - Load datasets into Pandas DataFrames  
+  - Perform initial exploration using:
+
+```python
+df.head()
+df.info()
+df.describe()
+
+---
+
