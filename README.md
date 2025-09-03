@@ -36,16 +36,27 @@ The project demonstrates:
 
 ## 📌 4. Load & Explore Data
 
-- **Steps:**
-  - Load datasets into Pandas DataFrames  
-  - Perform initial exploration using:
+- Load datasets into Pandas DataFrames  
+- Perform initial exploration using:
 
-```python
-df.head()
-df.info()
-df.describe()
-
+  ```bash
+  df.head()
+  df.info()
+  df.describe()
 ---
+
+## 5. Data Cleaning
+- Steps:
+    - Remove duplicates to avoid skewed results
+    - Handle missing values (drop or impute)
+    - Fix data types (dates → datetime, prices → float)
+    - Format currency values using .replace()
+    - Validate the cleaned datase
+---
+
+
+
+
 
 
 
