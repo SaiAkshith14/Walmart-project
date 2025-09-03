@@ -35,7 +35,7 @@ The project demonstrates:
 ---
 
 ### 📌 4. Load & Explore Data
-```bash
+
 - **Steps:**
   - Load datasets into Pandas DataFrames  
   - Perform initial exploration using:
