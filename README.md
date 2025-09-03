@@ -45,7 +45,7 @@ The project demonstrates:
   df.describe()
 ---
 
-## 5. Data Cleaning
+## 📌5. Data Cleaning
 - Steps:
     - Remove duplicates to avoid skewed results
     - Handle missing values (drop or impute)
