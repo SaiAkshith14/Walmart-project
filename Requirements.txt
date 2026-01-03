@@ -1,0 +1,9 @@
+## Requirements
+
+- pandas
+- numpy
+- sqlalchemy
+- mysql-connector-python
+- pymysql
+- MySQL
+- Power BI
