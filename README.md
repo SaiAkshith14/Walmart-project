@@ -1,4 +1,4 @@
-# 🛒 Walmart Sales Data Analysis (Python + SQL)
+# 🛒 Walmart Sales Data Analysis (Python + SQL + Power BI)
 
 ## 📌 Project Overview
 This project is an **end-to-end data analysis solution** designed to extract critical business insights from Walmart sales data.  
@@ -56,6 +56,61 @@ The project demonstrates:
     - Format currency values using .replace()
     - Validate the cleaned datase
 ---
+
+## 📌 6. Feature Engineering
+
+**Create New Columns:**  
+Calculate the **Total Amount** for each transaction by multiplying `unit_price` by `quantity` and add this as a new column.
+
+**Enhance Dataset:**  
+Adding this calculated field streamlines further SQL analysis and aggregation tasks by simplifying revenue-based queries.
+
+---
+
+## 📌 7. Load Data into SQL (MySQL)
+
+**Set Up Connections:**  
+Connect to **MySQL** using `sqlalchemy` and load the cleaned data into the database.
+
+**Table Creation:**  
+Set up tables in MySQL using Python SQLAlchemy to automate table creation and data insertion.
+
+**Verification:**  
+Run initial SQL queries to confirm that the data has been loaded accurately.
+
+---
+
+## 📌 8. SQL Analysis: Complex Queries and Business Problem Solving
+
+**Business Problem-Solving:**  
+Write and execute complex SQL queries to answer critical business questions, such as:
+- Revenue trends across branches and categories
+- Identifying best-selling product categories
+- Sales performance by time, city, and payment method
+- Analyzing peak sales periods and customer buying patterns
+- Profit margin analysis by branch and category
+
+**Documentation:**  
+Keep clear notes of each query’s objective, approach, and results.
+
+---
+
+## 📌 BI Analysis: Complex Analysis and Business Problem Solving
+
+1. Revenue and Profit Performance
+2. Category Performance Analysis
+3. City and Regional Sales Performance
+4. Time-Based Sales Analysis
+5. Customer Buying Behavior Analysis
+6. Seasonal and Monthly Sales Trends
+7. Sales Forecasting and Demand Planning
+
+---
+
+
+
+
+
 
 
 
