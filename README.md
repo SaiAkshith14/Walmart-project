@@ -7,7 +7,7 @@ It combines the power of **Python** for data processing and exploratory analysis
 
 The project demonstrates:  
 - Data cleaning and transformation in Python  
-- Data pipeline creation from Colab → Jupyter Notebook → MySQL  
+- Data pipeline creation from Colab → MySQL  
 - Solving **real-world business problems** with SQL queries
 - Interactive Dashboards with Power BI 
 - Building structured workflows for data analysts  
