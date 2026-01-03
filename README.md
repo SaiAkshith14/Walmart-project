@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project is an **end-to-end data analysis solution** designed to extract critical business insights from Walmart sales data.  
 It combines the power of **Python** for data processing and exploratory analysis with **SQL (MySQL)** for advanced querying and 
-**PowerBI** For Interactive Dashboard and Reporting.  
+**Power BI** For Interactive Dashboard and Reporting.  
 
 The project demonstrates:  
 - Data cleaning and transformation in Python  
@@ -16,7 +16,8 @@ The project demonstrates:
 
 ## 📌 1. Environment Setup
 - **Python (Jupyter Notebook & Google Colab)**  
-- **SQL (MySQL)**  
+- **SQL (MySQL)**
+- **Power BI**
 
 **Goal:** Create a **structured workspace** to organize datasets, scripts, and queries for smooth development and analysis.  
 
