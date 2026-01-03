@@ -129,6 +129,33 @@ Keep clear notes of each query’s objective, approach, and results.
 ```
 
 ---
+## 📊 Key Insights from Walmart Sales & Time Analysis Dashboard
+1.Strong Overall Performance
+- Walmart generated ₹1.21M in total revenue from 9,969 orders, delivering a solid total profit of ₹476K, indicating healthy operational efficiency and pricing control.
+  
+2.High Profit Concentration in Few Categories
+- Home & Lifestyle and Fashion Accessories dominate profitability, together contributing nearly 90% of total profit margin, making them the most critical categories for revenue optimization.
+  
+3.Digital Payments Dominate Transactions
+- Credit cards (40%) and e-wallets (38%) together account for nearly 78% of all payments, indicating a strong preference for cashless transactions and scope for digital payment partnerships.
+  
+4.Saturday is the Top Sales Day
+- Saturday records the highest sales, confirming weekend shopping behavior. This insight supports weekend-focused marketing campaigns and inventory planning.
+  
+5.Seasonal Sales Trend Identified
+- Monthly analysis shows low sales between April and July, followed by a sharp rise from October to December, indicating strong festive and year-end seasonality effects.
+
+6.Evening Hours Drive Peak Sales
+- Sales peak between 3 PM and 8 PM, with the highest spikes around early evening, suggesting customer preference for shopping after work hours.
+  
+7.December is the Best Performing Month
+- December records the highest monthly sales (~₹0.25M), driven by holidays and festive shopping, making it a critical period for maximizing inventory and promotional spend.
+  
+8.Midweek Sales Decline Pattern
+- Sales gradually decline from Saturday to Monday, with Monday being the weakest sales day, highlighting potential for weekday discount strategies to balance demand.
+
+9.Average Sales Value
+- An average sales value of ₹121 per transaction combined with high order volume reflects consistent customer spending behavior.
 
 
 
