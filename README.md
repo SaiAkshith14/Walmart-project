@@ -59,11 +59,11 @@ The project demonstrates:
 
 ## 📌 6. Feature Engineering
 
-**Create New Columns:**  
-Calculate the **Total Amount** for each transaction by multiplying `unit_price` by `quantity` and add this as a new column.
+  **Create New Columns:**  
+  Calculate the **Total Amount** for each transaction by multiplying `unit_price` by `quantity` and add this as a new column.
 
-**Enhance Dataset:**  
-Adding this calculated field streamlines further SQL analysis and aggregation tasks by simplifying revenue-based queries.
+  **Enhance Dataset:**  
+  Adding this calculated field streamlines further SQL analysis and aggregation tasks by simplifying revenue-based queries.
 
 ---
 
@@ -95,8 +95,7 @@ Keep clear notes of each query’s objective, approach, and results.
 
 ---
 
-## 📌 BI Analysis: Complex Analysis and Business Problem Solving
-
+## 📌 9. BI Analysis: Complex Analysis and Business Problem Solving
 1. Revenue and Profit Performance
 2. Category Performance Analysis
 3. City and Regional Sales Performance
@@ -106,6 +105,36 @@ Keep clear notes of each query’s objective, approach, and results.
 7. Sales Forecasting and Demand Planning
 
 ---
+
+## 📌 10. **Requirements**
+
+- **Programming Language**: Python 3.8+
+- **SQL Database**: MySQL
+- **Visualization Tool**: Power BI
+- **Python Libraries**: pandas, numpy, sqlalchemy, mysql-connector-python
+
+---
+
+## 📂 11. **Project Structure**
+
+```plaintext
+|-- data/                     # Raw data and transformed data
+|-- sql_queries/              # SQL scripts for analysis and queries
+|-- notebooks/                # Jupyter notebooks for Python analysis
+|-- powerbi/                  # Power BI dashboard files (.pbix) and images
+|-- images/                   # Power BI dashboard screenshots for README
+|-- README.md                 # Project documentation
+|-- requirements.txt          # List of required Python libraries
+|-- main.py                   # Main script for loading, cleaning, and processing data
+```
+
+---
+
+
+
+
+
+
 
 
 
